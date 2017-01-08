@@ -1,4 +1,4 @@
-Use less To Replace tail -f
+# Use less To Replace tail -f
 
 Everytime we need to get updated contents from a log file, we use the following command: `tail -f some.log`
 
